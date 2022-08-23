@@ -4,7 +4,7 @@
 - As colônias eram divididas em **vice-reinos e capitanias-gerais**.
 - Havia dois grupos da elite colonial:
 	- *Chapetones*: Nascidos na Espanha no mais alto cargo colonial com poder político;
-	- *Criolos*: Descendentes de espanhóis nascidos na colônia, na elite econômica mas impedidos de participar no poder político.
+	- *Criolos*: Descendentes de espanhóis nascidos na colônia, na elite econômica mas impedidos de participar no poder político;
 
 **Independência** | Quando aconteceu | Como aconteceu | Principais Líderes
 -- | -- | -- | --
@@ -15,3 +15,6 @@ Venezuela & Nova Granada | 1811 | Por conta de não reconhecerem a autoridade de
 Rio da Prata (Argentina) | 1816 | Após ser formada junta governativa em Buenos Aires, revoltas do interior acontecem. Após muitas batalhas, José de San Martín consegue independência. Ele acredita que para verdadeira independência, todas as colônias devem ser libertas. | José de San Martín
 Uruguai | 1811 | Pertencente à Argentina, o Uruguai é invadido pelo Império Brasileiro, renomeado para Província Cisplatina. Após resistência local apoiada pela Argentina, o Uruguai consegue independência | (Não relevante)
 Peru | 1824 | Com resistência criolla contra autonomia, tropas de San Martín e Símon Bolívar invadem Peru. Após anos de revoltas internas, independência é conquistada. | Símon Bolívar e José de San Martín
+
+- O conceito de liberdade na independência tinha mais a ver com liberdade econômica do que social, com mulheres e indígenas ainda não ganhando direitos e a escravidão não sendo abolida até anos depois;
+- Em muitos países, houve embates políticos entre liberais e conservadores.
