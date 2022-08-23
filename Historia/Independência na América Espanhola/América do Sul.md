@@ -31,4 +31,9 @@ A região do Uruguai era pertencente à Argentina, porém em 1825 foi invadida p
 
 ## Independência do Peru
 
-Houve muitas revoltas pelo Peru antes de sua independência, como a revolta de Tupac Amaru. 
+Houve muitas revoltas pelo Peru antes de sua independência, como a revolta de Tupac Amaru. Os indígenas foram os que mais se revoltavam. A elite criolla apoiava os espanhóis. Foi com a ajuda de tropas de San Martín e Símon Bolívar que a independência foi conquistada. Isso foi apoiado por parte da população, mas os criollos causaram resistência contra tudo, pois apoiavam os espanhóis. Foi apenas em 1824 que o Peru definitivamente virou um país independente.
+
+
+# Continuidade Pós-Independência
+
+Todo o conceito de liberdade na independência dos diversos países estava voltado mais à liberdade econômica do que a social, visto que a escravidão ainda demorou a ser abolida em muitos países e indígenas e mulheres ainda não tinham direitos. Foi apenas a elite que debateu sobre os ramos que os países deveriam tomar após independência, com o resto do povo não participando e pouca coisa mudando.
