@@ -25,3 +25,5 @@
 - Certo dia, quando dom Pedro estava voltando de uma viagem para São Paulo, Portugal mandou um ultimato para ele retornar. Enquanto estava nas margens do rio Ipiranga, dom Pedro rompeu com Portugal, no dia 7 de setembro de 1822.
 
 - As tropas portuguesas no Brasil permaneceram leais a Portugal, e se revoltaram. Na Bahia em Salvador, por exemplo, enquanto se recebiam reforços de Lisboa pelo mar, as tropas portuguesas lutavam. Por fim, se renderam em 2 de julho de 1823.
+
+- Aos poucos, outros países reconheceram a independência do Brasil.
