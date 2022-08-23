@@ -6,4 +6,4 @@
 
 - Tinha o objetivo de integrar o indígena a sociedade brasileira, na condição de trabalhador rural, liberar terras indígenas para os imigrantes europeus que começaram a chegar ao sudeste do país.
 
-- Resistência indígena .
+- Resistência indígena
